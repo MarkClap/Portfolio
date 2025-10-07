@@ -7,7 +7,7 @@ const projects = [
         title: "T&C Week",
         description:
             "Sitio web creado con React y Tailwind CSS, respaldado por un backend sólido en Spring Boot.",
-        link: "https://tusitio.com",
+        link: "https://github.com/MarkClap/C24_4_2024-2_G2C_FRONT_TCWEEKAPPLIMA",
         image: tcweekImg,
     },
     {
