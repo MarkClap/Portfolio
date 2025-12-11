@@ -1,19 +1,27 @@
 import { motion } from "framer-motion";
 import tcweekImg from "../assets/T&CWEEK.png";
 import wowcImg from "../assets/World of Warclass.png";
+import tecsup360Img from "../assets/tecsup_360.png";
 
 const projects = [
     {
+        title: "App Web 360 - Tecsup Centro",
+        description:
+            "Proyecto de 1 año: App Web 360 con chatbot IA. Backend en FastAPI, Frontend en React TypeScript.",
+        link: "https://github.com/dbecerra-O/ExploraTec-Frontend",
+        image: tecsup360Img,
+    },
+    {
         title: "T&C Week",
         description:
-            "Sitio web creado con React y Tailwind CSS, respaldado por un backend sólido en Spring Boot.",
+            "Proyecto de 3 meses: Sitio web creado con React y Tailwind CSS, respaldado por un backend sólido en Spring Boot.",
         link: "https://github.com/MarkClap/C24_4_2024-2_G2C_FRONT_TCWEEKAPPLIMA",
         image: tcweekImg,
     },
     {
         title: "World of Warclass",
         description:
-            "Aplicación full-stack desarrollada con Laravel y Blade, enfocada en gestión y experiencia de usuario.",
+            "Proyecto de 4 meses: Aplicación full-stack desarrollada con Laravel y Blade, enfocada en gestión y experiencia de usuario.",
         link: "https://github.com/MarkClap/WoWc-Platform-Mark",
         image: wowcImg,
     },
