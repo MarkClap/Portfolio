@@ -16,9 +16,6 @@ export default function Contact() {
           Puedes contactarme por correo o redes sociales.
         </p>
         <div className="flex justify-center space-x-8 text-3xl">
-          <a href="mailto:deivid.lauragaramendi@gmail.com" className="text-slate-400 hover:text-blue-400">
-            <FaEnvelope />
-          </a>
           <a href="https://github.com/MarkClap" target="_blank" className="text-slate-400 hover:text-blue-400">
             <FaGithub />
           </a>
