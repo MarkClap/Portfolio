@@ -7,6 +7,7 @@ import {
   FaGitAlt,
   FaGithub,
   FaTerminal,
+  FaPython,
 } from "react-icons/fa";
 import {
   SiTailwindcss,
@@ -16,6 +17,7 @@ import {
   SiIntellijidea,
   SiVsco,
   SiNpm,
+  SiAngular,
 } from "react-icons/si";
 
 const Technologies = () => {
@@ -40,6 +42,7 @@ const Technologies = () => {
             <h3 className="text-2xl font-semibold text-blue-400 mb-6">Frontend</h3>
             <div className="grid grid-cols-2 gap-6 justify-items-center">
               <TechItem icon={<FaReact className="text-blue-400" size={40} />} label="React" />
+              <TechItem icon={<SiAngular className="text-blue-400" size={40} />} label="Angular" />
               <TechItem icon={<SiTailwindcss className="text-cyan-400" size={40} />} label="Tailwind CSS" />
             </div>
           </div>
@@ -53,6 +56,7 @@ const Technologies = () => {
               <TechItem icon={<SiMysql className="text-blue-300" size={40} />} label="MySQL" />
               <TechItem icon={<SiPostgresql className="text-sky-400" size={40} />} label="PostgreSQL" />
               <TechItem icon={<FaPhp className="text-indigo-400" size={40} />} label="PHP" />
+              <TechItem icon={<FaPython className="text-indigo-400" size={40} />} label="Python" />
               <TechItem icon={<FaLaravel className="text-red-500" size={40} />} label="Laravel" />
               <TechItem icon={<FaJava className="text-orange-500" size={40} />} label="Java" />
             </div>

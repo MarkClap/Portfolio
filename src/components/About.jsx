@@ -19,13 +19,8 @@ export default function About() {
                     transition={{ duration: 0.8 }}
                     className="text-slate-400 leading-relaxed max-w-3xl mx-auto text-lg"
                 >
-                    👋 Hola, soy <span className="text-blue-400 font-semibold">Deivid</span>, un{" "}
-                    <span className="text-green-400 font-semibold">Backend Developer </span> 
-                    apasionado por construir soluciones eficientes, seguras y escalables.  
-                    Disfruto trabajar con tecnologías modernas como{" "}
-                    <span className="text-blue-400">Spring Boot</span> y{" "}
-                    <span className="text-green-400">Node.js</span>, siempre buscando mejorar
-                    cada línea de código y aprender algo nuevo cada día.
+                    👋 Hola, soy <span className="text-blue-400 font-semibold">Deivid</span>, un{" "} <span className="text-green-400 font-semibold">Full Stack Developer</span> con alta adaptabilidad y capacidad de aprendizaje rápido.
+                    Me especializo en construir soluciones web escalables y eficientes, combinando una sólida lógica técnica con una visión orientada a la experiencia de usuario.
                 </motion.p>
             </div>
         </section>

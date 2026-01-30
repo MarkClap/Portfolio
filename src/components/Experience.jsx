@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 const experiences = [
     {
         company: "TECSUP",
-        role: "Desarrollador Junior Full Stack Java",
-        period: "Enero - Marzo 2025",
+        role: "Desarrollador de Software",
+        period: "Enero - Junio 2025",
         location: "Lima, Perú",
         responsibilities: [
             "Desarrollé componentes backend en Java y Spring Boot, construyendo APIs REST para integrar un sistema generador de presentaciones automáticas.",

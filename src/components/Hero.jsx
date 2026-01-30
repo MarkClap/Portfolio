@@ -25,7 +25,7 @@ export default function Hero() {
         Laura Deivid
       </h1>
       <p className="text-slate-400 text-lg mb-8">
-        Full Stack React, Spring Boot & Laravel
+        Full Stack React, Spring Boot, Laravel & Python
       </p>
 
       {/* Botones */}
