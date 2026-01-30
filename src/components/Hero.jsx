@@ -22,7 +22,7 @@ export default function Hero() {
         Software Developer
       </h2>
       <h1 className="text-4xl md:text-6xl font-extrabold text-slate-50 mb-3">
-        Laura Deivid
+        Deivid Laura
       </h1>
       <p className="text-slate-400 text-lg mb-8">
         Full Stack React, Spring Boot, Laravel & Python
