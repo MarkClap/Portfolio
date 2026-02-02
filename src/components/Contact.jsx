@@ -22,6 +22,9 @@ export default function Contact() {
           <a href="https://www.linkedin.com/in/deivid-laura/" target="_blank" className="text-slate-400 hover:text-blue-400">
             <FaLinkedin />
           </a>
+          <a href="mailto:deivid.lauragaramendi@gmail.com" target="_blank" className="text-slate-400 hover:text-blue-400">
+            <FaEnvelope />
+          </a>
         </div>
       </div>
     </section>
